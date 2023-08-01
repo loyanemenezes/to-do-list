@@ -1,5 +1,5 @@
 body {
-  background: rgb(109, 170, 207);
+  background: #2edcb6;
   text-align: center;
   font-family: 'Open Sans', sans-serif;
 }
@@ -19,17 +19,17 @@ p {
   font-weight: 600;
 }
 
-#firt {
+#first {
   margin-top: 10px;
   color: #a61fb8;
 }
 
 #second {
-  color: rgb(210, 210, 24);
+  color: #0d485b;
 }
 
 #third {
-  color: rgb(148, 88, 14);
+  color: #b19704;
 }
 
 #enter {
@@ -48,7 +48,7 @@ p {
 
 #enter:hover {
   background-color: #02798f;
-  color: #ffcd5d;
+  color: #FFCD5D;
 }
 
 ul {
@@ -73,8 +73,9 @@ li {
   -o-transition: all 0.5s ease;
 }
 
+
 li:hover {
-  background: #76cfe0;
+  background: #76CFE0;
 }
 
 li > button {
@@ -94,9 +95,9 @@ input {
 }
 
 .done {
-  background: rgb(100, 100, 175) !important; 
-  color: white;
-}
+  background: #51df70 !important;
+  color: #00891E;
+} 
 
 .delete {
   display: none;
